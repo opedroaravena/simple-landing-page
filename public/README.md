@@ -2,6 +2,7 @@
 Create your own landing page with only 100 lines of code.
 
 it should look like this:
+<br>
 <img src="img/example-img.jpg" height="50%" width="50%">
 
 
@@ -11,6 +12,8 @@ it should look like this:
     <li>CSS</li>
     <li><a href="https://fontawesome.com/">Font Awesome</a></li>
 </ul>
+
+<hr>
 
 <h2>Installation</h2>
 <ol>
