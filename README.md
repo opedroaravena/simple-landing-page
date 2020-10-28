@@ -2,7 +2,7 @@
 Create your own landing page with only 100 lines of code.
 
 it should look like this:
-![example](https://ibb.co/fGXvY1X.jpg)
+https://ibb.co/fGXvY1X
 
 
 
