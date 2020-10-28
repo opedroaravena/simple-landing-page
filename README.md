@@ -2,7 +2,7 @@
 Create your own landing page with only 100 lines of code.
 
 it should look like this:
-<img src="img/example-img.jpg" height="50%" width="50%">
+<img src="https://ibb.co/MVMNWFq height="50%" width="50%">
 
 
 <h2>Stack</h2>
