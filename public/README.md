@@ -5,6 +5,9 @@ it should look like this:
 <br>
 <img src="img/example-img.jpg" height="50%" width="50%">
 
+#Visit:
+https://your-landing-page.netlify.app/
+
 
 <h2>Stack</h2>
 <ul>
