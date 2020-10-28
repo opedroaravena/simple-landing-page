@@ -15,6 +15,6 @@ https://ibb.co/fGXvY1X
 
 <h2>Installation</h2>
 <ol>
-    <li>git clone https://github.com/opedroaravena/simple-landing-page.git</li>
-    <li>Open index.html That's it!</li>
+    <li>`git clone https://github.com/opedroaravena/simple-landing-page.git`</li>
+    <li>Open `index.html` That's it!</li>
 </ol>
