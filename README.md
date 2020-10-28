@@ -2,7 +2,8 @@
 Create your own landing page with only 100 lines of code.
 
 it should look like this:
-<img src="example-img.jpg">
+
+https://ibb.co/fGXvY1X
 
 
 <h2>Stack</h2>
