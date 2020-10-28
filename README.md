@@ -2,9 +2,9 @@
 Create your own landing page with only 100 lines of code.
 
 it should look like this:
-https://ibb.co/fGXvY1X
+https://your-landing-page.netlify.app/
 
-
+<hr>
 
 <h2>Stack</h2>
 <ul>
